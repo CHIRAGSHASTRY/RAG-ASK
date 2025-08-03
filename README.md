@@ -39,3 +39,9 @@ Chat Memory: Maintains conversational context using LangChain.
 Model Switching: Choose between different local LLMs on the fly.
 
 It may take a while for processing files of a huge size but I have tried my best to improve the latency and response times.
+
+
+I HAVE ADDED A FEW PDFS:
+REVIEWS: SAMPLE PDF
+QUESTIONS: RELATED QUESTIONS 
+PICTURES: SAMPLE PICTURES OF THE PROJECT
