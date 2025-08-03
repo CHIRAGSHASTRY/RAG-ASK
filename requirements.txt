@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchainhub
+langchain-ollama
+pypdf
+chromadb
+sentence-transformers
+python-dotenv
+pymupdf
+streamlit-chat
+ollama
+tiktoken
+langchain-text-splitters
+

@@ -1,0 +1,3 @@
+CHROMA_DB_DIR = "chroma_store"
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 100
