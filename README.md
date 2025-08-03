@@ -38,3 +38,4 @@ Fast Retrieval: Uses local vector search (ChromaDB) for efficient querying.
 Chat Memory: Maintains conversational context using LangChain.
 Model Switching: Choose between different local LLMs on the fly.
 
+It may take a while for processing files of a huge size but I have tried my best to improve the latency and response times.
